@@ -20,3 +20,4 @@ https://gb.ru/ - безанкорная ссылка
 ![Картинка][logo]
 
 [logo]: https://avatars.mds.yandex.net/i?id=220b34c3bb4b3e7c34f1953933906f81-5876089-images-thumbs&n=13
+
