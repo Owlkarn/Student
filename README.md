@@ -34,6 +34,7 @@ https://gb.ru/ - безанкорная ссылка
 |1|one|
 |1|один
 |1|uno
+|1|eins|
 |2|two
 3|three
 4|four
