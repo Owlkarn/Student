@@ -13,7 +13,7 @@
 https://gb.ru/ - безанкорная ссылка
 
 ## Картинки
-![Котик](https://avatars.mds.yandex.net/i?id=2b86d443316a2c6ddcaa0c3a18599e00-5169780-images-thumbs&n=13)
+![Котик для четвертой ветки](https://avatars.mds.yandex.net/i?id=2b86d443316a2c6ddcaa0c3a18599e00-5169780-images-thumbs&n=13)
 
 ![Котик](https://avatars.mds.yandex.net/i?id=1df3b9a13336fd72a8c231c20147fa2a-6946674-images-thumbs&n=13 "Другой котик")
 
