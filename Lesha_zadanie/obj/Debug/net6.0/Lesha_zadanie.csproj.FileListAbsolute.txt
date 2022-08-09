@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\Lesha_zadanie.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\Lesha_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\Lesha_zadanie.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\Lesha_zadanie.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\Lesha_zadanie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\bin\Debug\net6.0\Lesha_zadanie.exe
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\bin\Debug\net6.0\Lesha_zadanie.deps.json
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\bin\Debug\net6.0\Lesha_zadanie.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\bin\Debug\net6.0\Lesha_zadanie.dll
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\bin\Debug\net6.0\Lesha_zadanie.pdb
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\Lesha_zadanie.dll
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\refint\Lesha_zadanie.dll
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\Lesha_zadanie.pdb
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\Lesha_zadanie.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\Student\Lesha_zadanie\obj\Debug\net6.0\ref\Lesha_zadanie.dll
