@@ -6,9 +6,20 @@
 
 int n = ReadInt("Введите число: "); 
 int[] array = new int[n];
-array[0] = 1;
 
 for  (int i = 0; i < n; i++)
 {
-    Console.Write(array[i]);
+    for (int j = 0; j < n; j++)
+    {
+        array[j] = i * n + j +1;
+        if (array[j] < 10)
+        {
+            Console.Write(array[j] + "  ");
+        }
+        else
+        {
+            Console.Write(array[j] + " ");
+        }        
+    }
+    Console.WriteLine();
 }
